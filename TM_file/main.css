@@ -1138,11 +1138,15 @@ body.menu-visible .navbar-a.hide-header {
 @media screen and (max-width: 576px) {
   body.scrolled .navbar-a:before {
     opacity: 1; } 
+	
+	}
+@media screen and (max-width: 600px) {
 	.cover-page img {
-    width: 216%;
-    height: 100%;
+    width: 216%!important;
+    height: 100%!important;
 }
 	}
+
 
 .nav-fullscreen-lg {
   width: 100%; }

@@ -30,7 +30,6 @@ p{font-size:14px}
 .tag-list .tag{font-weight:600;color:#6c757d;text-transform:uppercase;font-size:10px;background:#f4f4f4;padding:5px;white-space:nowrap;margin-left:6px}
 a[href^="/u"]>span[style="color:#337ab7"]>strong,span[style="color:#337ab7"]>strong{font-weight:300}
 .hdmemband .togglableMsgLabel{background:#051c38;padding:4px 8px;color:#fff;border-radius:3px}
-#main-title:before{content:"Raovat24";font-size:18px!important}
 /*quick login*/
 .col-lg-12.lpps{display:block;padding:0}
 #quickloginform>form>.h4{border-bottom:2px solid #286090;padding-bottom:8px}
@@ -65,7 +64,7 @@ a[href^="/u"]>span[style="color:#337ab7"]>strong,span[style="color:#337ab7"]>str
 .navbar-nav>li.notifications a:before{content:"\f0f3";font-family:var(--fa-style-family,"Font Awesome 6 Free");font-size:17px;line-height:50px}
 .navbar-nav > li > a{color:#666}
 #notif_unread{background:red;border-radius:50%;font-size:10px;padding:3px;position:absolute;right:2px;top:4px;line-height:1!important;color:#fff}
-.navbar-nav > li > a.yourib-inner> span,#phpbb #page-header #main-title h1,#phpbb #page-header #main-title,.breadcrumb .nav:first-child>span{font-size:0}
+.navbar-nav > li > a.yourib-inner> span,.breadcrumb .nav:first-child>span{font-size:0}
 .navbar-nav > li > a.yourib-inner> span strong{background:red;border-radius:50%;font-size:10px;padding:3px 6px;position:absolute;right:2px;top:4px;line-height:1!important;color:#fff}
 .navbar-nav > li > a.yourib-inner{line-height:0}
 .navbar-nav>li#user_label{padding:10px}
